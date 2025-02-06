@@ -12,7 +12,8 @@
 
 ## DISCORD
 
-* [🥏 Discord](discord/discord.md)
+* [🎰 Economia](discord/economia.md)
+* [🎱 MiniJuegos](discord/minijuegos.md)
 
 ## Como jugar
 
