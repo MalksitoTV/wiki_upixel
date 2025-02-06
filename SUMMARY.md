@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🪐 ¡Bienvenido/a!](README.md)
-* [🫂 Vision, Mision & Objetivo](vision-mision-and-objetivo/README.md)
+* [🫂 Obejtivos, y nuestra identidad](vision-mision-and-objetivo/README.md)
   * [Vision](vision-mision-and-objetivo/vision.md)
   * [Mision](vision-mision-and-objetivo/mision.md)
   * [Objetivo](vision-mision-and-objetivo/objetivo.md)
@@ -9,6 +9,10 @@
   * [Reglas Servidor](reglamento/reglas-servidor.md)
   * [Reglas Discord](reglamento/reglas-discord.md)
 * [✉️ Lore](lore.md)
+
+## DISCORD
+
+* [🥏 Discord](discord/discord.md)
 
 ## Como jugar
 

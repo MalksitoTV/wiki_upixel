@@ -11,7 +11,7 @@ coverY: -169
 Nos gustaria enormemente darte la bienvenida , desearte que tengas una experiencia increible junto a nosotros y que podamos crecer como comunidad.
 
 {% hint style="warning" %}
-## Importante**: Esta wiki se puede actualizar, o añadir mayor información, si quieres aportar tu granito de arena, contacta con nosotros!**
+## Important&#x65;**: Esta wiki se puede actualizar, o añadir mayor información, si quieres aportar tu granito de arena, contacta con nosotros!**
 
 **En cada POST si tienes el rol "Comentador" a la derecha tienes la opción de comentar algo ya escrito para poder mejorarlo, o añadir mejor información.**
 {% endhint %}
