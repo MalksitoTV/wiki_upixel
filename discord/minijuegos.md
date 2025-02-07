@@ -12,11 +12,11 @@ description: >-
 
 **Descripcion:** Responde a una pregunta con una respuesta aleatoria. **Uso:** `.8ball [pregunta]` **Ejemplo:** `.8ball Sere rico algun dia?`
 
-### 🖼️ Meme
+### 🖼️ Meme (En Progreso)
 
 **Descripcion:** Muestra un meme aleatorio. **Uso:** `.meme` **Ejemplo:** `.meme`
 
-### 🎭 Gif
+### 🎭 Gif (En Progreso)
 
 **Descripcion:** Muestra un GIF aleatorio basado en una búsqueda. **Uso:** `.gif [busqueda]` **Ejemplo:** `.gif feliz`
 
