@@ -24,6 +24,6 @@ description: >-
 
 **Descripcion:** Envía dinero a otro usuario. **Uso:** `.pay @usuario [cantidad]` **Ejemplo:** `.pay @EjemploUsuario 500`
 
-### 📊 Leaderboard
+### 📊 Cointop
 
-**Descripcion:** Muestra la tabla de clasificación de los usuarios con más dinero. **Uso:** `.leaderboard` **Ejemplo:** `.leaderboard`
+**Descripcion:** Muestra la tabla de clasificación de los usuarios con más dinero. **Uso:** `.cointop`**Ejemplo:** `.cointop`
