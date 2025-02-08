@@ -38,11 +38,11 @@ Nunca dudes en dejar tus sugerencias!
 
 <summary>Nuestra visión, objetivos y quienes somos.</summary>
 
-Llevamos administrando servidores de Pixelmon desde el 2021, y nuestra principal visión siempre fue un espacio seguro, donde no importe quien seas, como seas o tu pasado, presente o futuro.
+Llevamos administrando servidores de Pixelmon desde el 2020, y nuestra principal visión siempre fue un espacio seguro, donde no importe quien seas, como seas o tu pasado, presente o futuro.
 
 Nuestro principal objetivo siempre fue romper barreras que cualquier juego de Pokemon tiene, tales como la edicion para el competitivo, generar nuevos sistemas de captura, y una larga lista, que busca forjar nuestra propia identidad.
 
-Somos un grupo de voluntarios y voluntarias que con nuestras ideas y trabajo diario, poco a poco buscamos disfrutar creando algo novedoso para la comunidad.
+Somos un grupo de jugadores que con nuestras ideas y trabajo diario, poco a poco buscamos disfrutar creando algo novedoso para la comunidad.
 
 </details>
 
@@ -50,7 +50,7 @@ Somos un grupo de voluntarios y voluntarias que con nuestras ideas y trabajo dia
 
 <summary>Un proyecto por y para todos/as.</summary>
 
-Si eres una persona con imaginacion, que ama el mundo Pokémon y en general con ganas de aportar tu granito de arena, hay muchisimas formas de hacerlo, puedes ponerte en contacto con nosotros y ayudarnos con el proyecto en el area que consideres que es la mejor para ti.
+Si eres una persona con imaginacion,  con ganas de aportar tu granito de arena, hay muchisimas formas de hacerlo, puedes ponerte en contacto con nosotros y ayudarnos con el proyecto en el area que consideres que es la mejor para ti.
 
 </details>
 
