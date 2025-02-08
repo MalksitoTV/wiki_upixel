@@ -1,5 +1,6 @@
 ---
 description: Información general sobre el sistema de economia
+icon: cart-xmark
 ---
 
 # Sistema Economia
