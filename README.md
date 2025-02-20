@@ -2,12 +2,12 @@
 description: >-
   Estás en la Wiki de UPixel.org, aquí puedes encontrar toda la información de
   nuestros servidores.
-cover: .gitbook/assets/UPixel.org-01 (4).jpg
-coverY: -477.83269476372925
+cover: .gitbook/assets/image (1).png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

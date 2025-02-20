@@ -1,6 +1,6 @@
 ---
-description: Información general sobre el sistema de economia
 icon: cart-xmark
+description: Información general sobre el sistema de economia
 ---
 
 # Sistema Economia
@@ -78,17 +78,6 @@ icon: cart-xmark
 
 * Apuesta y elige: cara o cruz
 * ¡Duplica tu apuesta si ganas!
-
-### 👑 Comandos para Staff
-
-#### Para DEVs ⚡
-
-* Dar monedas: `.givecoins @usuario cantidad`
-* Quitar monedas: `.takecoins @usuario cantidad`
-
-#### Para Owner 👑
-
-* Establecer monedas: `.setcoins @usuario cantidad`
 
 ### ❓ Preguntas Frecuentes
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🎲 Mimikyu Allister
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
