@@ -2,9 +2,9 @@
 
 * [🪐 ¡Bienvenido/a!](README.md)
 * [🫂 Obejtivos, y nuestra identidad](vision-mision-and-objetivo/README.md)
-  * [Vision](vision-mision-and-objetivo/vision.md)
-  * [Mision](vision-mision-and-objetivo/mision.md)
-  * [Objetivo](vision-mision-and-objetivo/objetivo.md)
+  * [🌟 Nuestra Visión 🌟](vision-mision-and-objetivo/vision.md)
+  * [🎮 ¿Qué nos impulsa?](vision-mision-and-objetivo/mision.md)
+  * [🌟 ¿Qué buscamos lograr?](vision-mision-and-objetivo/objetivo.md)
 * [🧑‍⚖️ Reglamento](reglamento/README.md)
   * [Reglas Servidor](reglamento/reglas-servidor.md)
   * [Reglas Discord](reglamento/reglas-discord.md)
