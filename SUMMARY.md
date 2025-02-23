@@ -15,6 +15,8 @@
 * [Sistema Economia](discord/sistema-economia.md)
 * [🎰 Economia](discord/economia.md)
 * [🎱 MiniJuegos](discord/minijuegos.md)
+* [🎟️ Soporte](discord/soporte.md)
+* [📊 Niveles](discord/niveles.md)
 
 ## Como jugar
 
