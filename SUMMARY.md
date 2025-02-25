@@ -22,6 +22,7 @@
 ## TUTORIALES
 
 * [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
+* [🎯 Misiones Diarias en Pixelmon  📸](tutoriales/misiones-diarias-en-pixelmon.md)
 * [🥚 Crianza](tutoriales/crianza/README.md)
   * [Crianza con Ditto](tutoriales/crianza/crianza-con-ditto.md)
   * [Tipo Bicho](tutoriales/crianza/tipo-bicho.md)
