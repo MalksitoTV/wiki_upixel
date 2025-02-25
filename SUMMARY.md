@@ -21,12 +21,12 @@
 
 ## TUTORIALES
 
-* [🏆 Equipos](tutoriales/equipos/README.md)
-  * [🌟 Perks de los Equipos](tutoriales/equipos/perks-de-los-equipos.md)
-  * [⚔️ Guerras de Equipo](tutoriales/equipos/guerras-de-equipo.md)
 * [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
 * [🦸 Modificadores Custom del Servidor](tutoriales/modificadores-custom-del-servidor.md)
 * [🎯 Misiones Diarias en Pixelmon  📸](tutoriales/misiones-diarias-en-pixelmon.md)
+* [🏆 Equipos](tutoriales/equipos/README.md)
+  * [🌟 Perks de los Equipos](tutoriales/equipos/perks-de-los-equipos.md)
+  * [⚔️ Guerras de Equipo](tutoriales/equipos/guerras-de-equipo.md)
 * [🛍️ Lucky Blocks](tutoriales/lucky-blocks.md)
 * [🥚 Crianza](tutoriales/crianza/README.md)
   * [Crianza con Ditto](tutoriales/crianza/crianza-con-ditto.md)
