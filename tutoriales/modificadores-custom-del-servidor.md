@@ -2,7 +2,7 @@
 description: >-
   Estamos trabajando en un nuevo sistema de modificadores, cuando sea lanzado
   esta página recibira su correspondiente actualización, de momento estos serian
-  los modificadores existentes...
+  los modificadores existentes.
 ---
 
 # 🦸 Modificadores Custom del Servidor
