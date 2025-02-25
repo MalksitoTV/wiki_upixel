@@ -5,6 +5,7 @@
   * [🌟 Nuestra Visión 🌟](vision-mision-and-objetivo/vision.md)
   * [🎮 ¿Qué nos impulsa?](vision-mision-and-objetivo/mision.md)
   * [🌟 ¿Qué buscamos lograr?](vision-mision-and-objetivo/objetivo.md)
+* [🎮 Instalacion y requisitos](instalacion-y-requisitos.md)
 * [🧑‍⚖️ Reglamento](reglamento/README.md)
   * [Reglas Servidor](reglamento/reglas-servidor.md)
   * [Reglas Discord](reglamento/reglas-discord.md)
@@ -18,19 +19,18 @@
 * [🎟️ Soporte](discord/soporte.md)
 * [📊 Niveles](discord/niveles.md)
 
-## Como jugar
+## TUTORIALES
 
-* [Instalacion y requisitos](como-jugar/instalacion-y-requisitos.md)
-* [Entrenamiento](como-jugar/entrenamiento.md)
-* [🥚 Crianza](como-jugar/crianza/README.md)
-  * [Crianza con Ditto](como-jugar/crianza/crianza-con-ditto.md)
-  * [Tipo Bicho](como-jugar/crianza/tipo-bicho.md)
-  * [Tipo Siniestro](como-jugar/crianza/tipo-siniestro.md)
-  * [Tipo Dragon](como-jugar/crianza/tipo-dragon.md)
-  * [Tipo Electrico](como-jugar/crianza/tipo-electrico.md)
-  * [Tipo Fantasma](como-jugar/crianza/tipo-fantasma.md)
-  * [Tipo Hada](como-jugar/crianza/tipo-hada.md)
-* [🤖 Modificadores](como-jugar/modificadores.md)
+* [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
+* [🥚 Crianza](tutoriales/crianza/README.md)
+  * [Crianza con Ditto](tutoriales/crianza/crianza-con-ditto.md)
+  * [Tipo Bicho](tutoriales/crianza/tipo-bicho.md)
+  * [Tipo Siniestro](tutoriales/crianza/tipo-siniestro.md)
+  * [Tipo Dragon](tutoriales/crianza/tipo-dragon.md)
+  * [Tipo Electrico](tutoriales/crianza/tipo-electrico.md)
+  * [Tipo Fantasma](tutoriales/crianza/tipo-fantasma.md)
+  * [Tipo Hada](tutoriales/crianza/tipo-hada.md)
+* [🤖 Modificadores](tutoriales/modificadores.md)
 
 ## 🌎 U-Dex
 
