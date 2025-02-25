@@ -21,6 +21,7 @@
 
 ## TUTORIALES
 
+* [🛍️ Lucky Blocks](tutoriales/lucky-blocks.md)
 * [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
 * [🎯 Misiones Diarias en Pixelmon  📸](tutoriales/misiones-diarias-en-pixelmon.md)
 * [🥚 Crianza](tutoriales/crianza/README.md)
