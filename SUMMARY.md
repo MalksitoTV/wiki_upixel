@@ -21,9 +21,10 @@
 
 ## TUTORIALES
 
-* [🛍️ Lucky Blocks](tutoriales/lucky-blocks.md)
-* [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
+* [🦸 Modificadores Custom del Servidor](tutoriales/modificadores-custom-del-servidor.md)
 * [🎯 Misiones Diarias en Pixelmon  📸](tutoriales/misiones-diarias-en-pixelmon.md)
+* [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
+* [🛍️ Lucky Blocks](tutoriales/lucky-blocks.md)
 * [🥚 Crianza](tutoriales/crianza/README.md)
   * [Crianza con Ditto](tutoriales/crianza/crianza-con-ditto.md)
   * [Tipo Bicho](tutoriales/crianza/tipo-bicho.md)
