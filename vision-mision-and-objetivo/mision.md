@@ -1,7 +1,7 @@
 ---
 description: >-
   Queremos ofrecer un servidor donde la diversión, la comunidad y la aventura se
-  unan para formar un mundo lleno de posibilidades.
+  unan para formar un mundo lleno de posibilidades
 ---
 
 # 🎮 ¿Qué nos impulsa?
