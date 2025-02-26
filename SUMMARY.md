@@ -22,8 +22,11 @@
 ## TUTORIALES
 
 * [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
-* [🦸 Modificadores Custom del Servidor](tutoriales/modificadores-custom-del-servidor.md)
-* [🎯 Misiones Diarias en Pixelmon  📸](tutoriales/misiones-diarias-en-pixelmon.md)
+* [🦸 Modificadores Custom del Servidor](tutoriales/modificadores-custom-del-servidor/README.md)
+  * [🧬 Modificación de IVs](tutoriales/modificadores-custom-del-servidor/modificacion-de-ivs.md)
+  * [⛓️ Modificación de EVs](tutoriales/modificadores-custom-del-servidor/modificacion-de-evs.md)
+  * [✨ Modificación Shiny](tutoriales/modificadores-custom-del-servidor/modificacion-shiny.md)
+* [🎯 Misiones Diarias en Pixelmon 📸](tutoriales/misiones-diarias-en-pixelmon.md)
 * [🏆 Equipos](tutoriales/equipos/README.md)
   * [🌟 Perks de los Equipos](tutoriales/equipos/perks-de-los-equipos.md)
   * [⚔️ Guerras de Equipo](tutoriales/equipos/guerras-de-equipo.md)
