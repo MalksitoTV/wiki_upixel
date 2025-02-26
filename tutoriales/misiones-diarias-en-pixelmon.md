@@ -15,7 +15,7 @@ Cada misión tiene un botón que te permitirá reclamar tu **recompensa** cuando
 
 * **Cada misión tiene un temporizador de 24 horas**, lo que significa que podrás hacer una nueva misión y reclamar una recompensa cada día.
 
-### 📸 FotoCentro
+## 📸 FotoCentro
 
 * **Temporizador:** 24 horas
 * **Descripción:**
