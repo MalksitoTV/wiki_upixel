@@ -11,14 +11,6 @@
   * [Reglas Discord](reglamento/reglas-discord.md)
 * [✉️ Lore](lore.md)
 
-## DISCORD
-
-* [Sistema Economia](discord/sistema-economia.md)
-* [🎰 Economia](discord/economia.md)
-* [🎱 MiniJuegos](discord/minijuegos.md)
-* [🎟️ Soporte](discord/soporte.md)
-* [📊 Niveles](discord/niveles.md)
-
 ## TUTORIALES
 
 * [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
@@ -46,6 +38,14 @@
 * [Pokemon](u-dex/pokemon/README.md)
   * [🎲 Mimikyu Allister](u-dex/pokemon/mimikyu-allister.md)
   * [👌 Zygarde](u-dex/pokemon/zygarde.md)
+
+## DISCORD
+
+* [Sistema Economia](discord/sistema-economia.md)
+* [🎰 Economia](discord/economia.md)
+* [🎱 MiniJuegos](discord/minijuegos.md)
+* [🎟️ Soporte](discord/soporte.md)
+* [📊 Niveles](discord/niveles.md)
 
 ## 📚 Wikis
 
