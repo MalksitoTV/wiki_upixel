@@ -15,6 +15,9 @@
 
 ## TUTORIALES
 
+* [🔐 Guía de Protección y Claims](tutoriales/guia-de-proteccion-y-claims/README.md)
+  * [🔒 Permisos de tu Claim](tutoriales/guia-de-proteccion-y-claims/permisos-de-tu-claim.md)
+  * [🛠️ Comandos Claims](tutoriales/guia-de-proteccion-y-claims/comandos-claims.md)
 * [⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮](tutoriales/entrenamiento.md)
 * [🦸 Modificadores Custom del Servidor](tutoriales/modificadores-custom-del-servidor/README.md)
   * [🧬 Modificación de IVs](tutoriales/modificadores-custom-del-servidor/modificacion-de-ivs.md)
