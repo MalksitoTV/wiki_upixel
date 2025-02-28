@@ -6,8 +6,10 @@
   * [🎮 ¿Qué nos impulsa?](vision-mision-and-objetivo/mision.md)
   * [🌟 ¿Qué buscamos lograr?](vision-mision-and-objetivo/objetivo.md)
 * [🎮 Instalacion y requisitos](instalacion-y-requisitos.md)
-* [🧑‍⚖️ Reglamento](reglamento/README.md)
-  * [Reglas Servidor](reglamento/reglas-servidor.md)
+* [📜 Normas Servidores](reglamento/README.md)
+  * [🎮 Servidores](reglamento/reglas-servidor.md)
+  * [🏠 Protecciones y Claims](reglamento/protecciones-y-claims.md)
+  * [⚠️ Sanciones y Otras Normas](reglamento/sanciones-y-otras-normas.md)
   * [Reglas Discord](reglamento/reglas-discord.md)
 * [✉️ Lore](lore.md)
 
