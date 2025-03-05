@@ -20,14 +20,16 @@ description: >-
 🔹 **Abrir el Lienzo de ARKEUS:**
 
 ```
-/ark [<jugador>]  
+/ark
 ```
 
 ### ⚡ ¿Cómo Funciona?
 
 1. **Accede al Lienzo de ARKEUS** con `/ark`
 2. **Elige la opción disponible** : Crear, Modificar o Fusionar.
-3. **Personaliza tu Pokémon** seleccionando sus atributos.
-4. **Confirma los cambios** y ¡disfruta de tu creación única!
+3. **Personaliza tu Pokémon** si cumples los requisitos.
+4. Crea tu propio Pokémon desde cero.
+5. Fusiona dos Pokémon para obtener modificadores únicos.
+6. **Confirma los cambios** y ¡disfruta del Lienzo de Arkeus!
 
 > 🏆 _Los Pokémon modificados con el Lienzo de ARKEUS se registran automáticamente en nuestra UDex._
