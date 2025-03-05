@@ -37,6 +37,7 @@
   * [Tipo Electrico](tutoriales/crianza/tipo-electrico.md)
   * [Tipo Fantasma](tutoriales/crianza/tipo-fantasma.md)
   * [Tipo Hada](tutoriales/crianza/tipo-hada.md)
+* [🚪 Portales 🌌](tutoriales/portales.md)
 * [🤖 Modificadores](tutoriales/modificadores.md)
 
 ## 🌎 U-Dex
