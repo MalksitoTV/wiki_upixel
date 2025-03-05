@@ -15,6 +15,7 @@
 
 ## TUTORIALES
 
+* [🌟 Primer Día](tutoriales/primer-dia.md)
 * [🔐 Guía de Protección y Claims](tutoriales/guia-de-proteccion-y-claims/README.md)
   * [🔒 Permisos de tu Claim](tutoriales/guia-de-proteccion-y-claims/permisos-de-tu-claim.md)
   * [🛠️ Comandos Claims](tutoriales/guia-de-proteccion-y-claims/comandos-claims.md)
