@@ -25,6 +25,7 @@
   * [⛓️ Modificación de EVs](tutoriales/modificadores-custom-del-servidor/modificacion-de-evs.md)
   * [✨ Modificación Shiny](tutoriales/modificadores-custom-del-servidor/modificacion-shiny.md)
 * [🎯 Misiones Diarias en Pixelmon 📸](tutoriales/misiones-diarias-en-pixelmon.md)
+* [🎨 Lienzo de ARKEUS](tutoriales/lienzo-de-arkeus.md)
 * [🏆 Equipos](tutoriales/equipos/README.md)
   * [🌟 Perks de los Equipos](tutoriales/equipos/perks-de-los-equipos.md)
   * [⚔️ Guerras de Equipo](tutoriales/equipos/guerras-de-equipo.md)
