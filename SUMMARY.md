@@ -38,6 +38,7 @@
   * [Tipo Electrico](tutoriales/crianza/tipo-electrico.md)
   * [Tipo Fantasma](tutoriales/crianza/tipo-fantasma.md)
   * [Tipo Hada](tutoriales/crianza/tipo-hada.md)
+* [🏅 Sistema de Recompensas por Actividad (RPA)](tutoriales/sistema-de-recompensas-por-actividad-rpa.md)
 * [🚪 Portales 🌌](tutoriales/portales.md)
 * [🤖 Modificadores](tutoriales/modificadores.md)
 
