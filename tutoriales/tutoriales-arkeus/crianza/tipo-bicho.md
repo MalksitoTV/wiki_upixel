@@ -2,7 +2,7 @@
 description: >-
   Cada Pokémon con el tipo Bicho, tienen los siguientes requisitos para ser
   criados.
-cover: ../../.gitbook/assets/EP1120_Pokémon_bicho_de_Goh.png
+cover: ../../../.gitbook/assets/EP1120_Pokémon_bicho_de_Goh.png
 coverY: 0
 ---
 
