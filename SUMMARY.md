@@ -33,6 +33,7 @@
     * [Tipo Fantasma](tutoriales/tutoriales-arkeus/crianza/tipo-fantasma.md)
     * [Tipo Hada](tutoriales/tutoriales-arkeus/crianza/tipo-hada.md)
   * [🎮Wondertrade](tutoriales/tutoriales-arkeus/wondertrade.md)
+  * [🎉 PixelBingo](tutoriales/tutoriales-arkeus/pixelbingo.md)
 
 ***
 
