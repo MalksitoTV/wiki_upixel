@@ -1,15 +1,10 @@
-# 🦟 Moskito
-
-## 🦟 Moskito - Índice Pokédex #2000
+# 🦟 Moskito -  #2000
 
 ### 📌 Información General
 
 * **Nombre:** Moskito
 * **Número Pokédex:** 2000
-* **Generación:** 10
 * **Tipos:** 🐛 Bicho / 🐉 Dragón
-* **Grupo de Experiencia:** Medium Fast
-* **Ciclos de Huevo:** 26
 * **Peso:** ⚖️ 21.0 kg
 * **Ratio de Captura:** 🎯 75
 

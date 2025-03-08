@@ -55,10 +55,13 @@
 
 ## 🌎 U-Dex
 
-* [Pokemon](u-dex/pokemon/README.md)
+* [Pokemon Custom](u-dex/pokemon/README.md)
+  * [🦟 Moskito -  #2000](u-dex/pokemon/moskito-2000.md)
+  * [🦖 Spinoasis -  #2001](u-dex/pokemon/spinoasis-2001.md)
+  * [🦖 Triceroak - #2002](u-dex/pokemon/triceroak-2002.md)
+  * [🦖 Floraptor - #2003](u-dex/pokemon/floraptor-2003.md)
   * [🎲 Mimikyu Allister](u-dex/pokemon/mimikyu-allister.md)
   * [👌 Zygarde](u-dex/pokemon/zygarde.md)
-  * [🦟 Moskito](u-dex/pokemon/moskito.md)
 
 ## DISCORD
 
