@@ -58,6 +58,7 @@
 * [Pokemon](u-dex/pokemon/README.md)
   * [🎲 Mimikyu Allister](u-dex/pokemon/mimikyu-allister.md)
   * [👌 Zygarde](u-dex/pokemon/zygarde.md)
+  * [🦟 Moskito](u-dex/pokemon/moskito.md)
 
 ## DISCORD
 
