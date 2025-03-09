@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image.png
+coverY: 53
+---
+
 # 🦖 Spinoasis -  #2001
 
 ### 📜 Información General

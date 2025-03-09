@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image (3).png
+coverY: 80
+---
+
 # 🦖 Floraptor - #2003
 
 ### 📜 Información General

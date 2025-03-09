@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image (1).png
+coverY: 64
+---
+
 # 🦖 Triceroak - #2002
 
 ### 📜 Información General
