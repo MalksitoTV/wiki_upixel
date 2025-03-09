@@ -1,5 +1,8 @@
 ---
-cover: ../../.gitbook/assets/image (1).png
+description: >-
+  "Sus patas gruesas y su caparazón cubierto de musgo lo protegen de los
+  depredadores."
+cover: ../../.gitbook/assets/image (1) (1).png
 coverY: 64
 ---
 

@@ -1,3 +1,10 @@
+---
+description: >-
+  "Este Pokémon de gran tamaño deambula por las montañas nevadas en busca de
+  comida. A pesar de su aspecto festivo, su fuerza descomunal lo convierte en un
+  rival temible."
+---
+
 # ❄️ WinterBrute - #2006
 
 ### 📜 Información General

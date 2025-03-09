@@ -1,4 +1,5 @@
 ---
+description: '"Su agilidad y feroces mandíbulas lo convierten en un cazador implacable."'
 cover: ../../.gitbook/assets/image (3).png
 coverY: 80
 ---

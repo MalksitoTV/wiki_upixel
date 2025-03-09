@@ -1,12 +1,6 @@
 # Table of contents
 
 * [🪐 ¡Bienvenido/a!](README.md)
-  * [📌 Sobre Nosotros/as](readme/sobre-nosotros-as/README.md)
-    * [🫂 Obejtivos, y nuestra identidad](readme/sobre-nosotros-as/vision-mision-and-objetivo/README.md)
-      * [🌟 Nuestra Visión 🌟](readme/sobre-nosotros-as/vision-mision-and-objetivo/vision.md)
-      * [🎮 ¿Qué nos impulsa?](readme/sobre-nosotros-as/vision-mision-and-objetivo/mision.md)
-      * [🌟 ¿Qué buscamos lograr?](readme/sobre-nosotros-as/vision-mision-and-objetivo/objetivo.md)
-    * [✉️ Lore de Ikora](readme/sobre-nosotros-as/lore.md)
 
 ## TUTORIALES
 
@@ -82,3 +76,9 @@
 ## 👋 Equipo De UPixel
 
 * [¿Quiénes somos?](equipo-de-upixel/quienes-somos.md)
+* [📌 Sobre Nosotros/as](equipo-de-upixel/sobre-nosotros-as/README.md)
+  * [🫂 Obejtivos, y nuestra identidad](equipo-de-upixel/sobre-nosotros-as/vision-mision-and-objetivo/README.md)
+    * [🌟 Nuestra Visión 🌟](equipo-de-upixel/sobre-nosotros-as/vision-mision-and-objetivo/vision.md)
+    * [🎮 ¿Qué nos impulsa?](equipo-de-upixel/sobre-nosotros-as/vision-mision-and-objetivo/mision.md)
+    * [🌟 ¿Qué buscamos lograr?](equipo-de-upixel/sobre-nosotros-as/vision-mision-and-objetivo/objetivo.md)
+  * [✉️ Lore de Ikora](equipo-de-upixel/sobre-nosotros-as/lore.md)

@@ -2,7 +2,7 @@
 description: >-
   Estás en la Wiki de UPixel.org, aquí puedes encontrar toda la información de
   nuestros servidores.
-cover: .gitbook/assets/image (1) (1).png
+cover: .gitbook/assets/image (1) (1) (1).png
 coverY: 0
 layout:
   cover:

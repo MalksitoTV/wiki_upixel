@@ -1,3 +1,12 @@
+---
+description: >-
+  "Su cuerpo metálico es tan resistente como el titanio, pero sus pétalos emiten
+  un aroma calmante. Algunos creen que fue creado para restaurar ecosistemas
+  devastados."
+cover: ../../.gitbook/assets/image (1).png
+coverY: 0
+---
+
 # 🌱 IronGeranium - #2005
 
 ### 📜 Información General
