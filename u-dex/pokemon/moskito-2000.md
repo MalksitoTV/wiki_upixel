@@ -2,8 +2,8 @@
 description: >-
   "Este Pokémon prehistórico se alimenta de la sangre de otros Pokémon. Su
   diminuto tamaño le permite moverse sin ser detectado."
-cover: ../../.gitbook/assets/image (2) (1) (1).png
-coverY: 28.05365126676602
+cover: ../../.gitbook/assets/image (2) (1) (1) (1).png
+coverY: 69.05514157973174
 layout:
   cover:
     visible: true

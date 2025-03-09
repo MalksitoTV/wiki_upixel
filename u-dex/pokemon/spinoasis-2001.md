@@ -2,7 +2,7 @@
 description: >-
   "Su alargado cuerpo y afilada garra le permiten drenar la energía de sus
   presas con facilidad."
-cover: ../../.gitbook/assets/image (2).png
+cover: ../../.gitbook/assets/image (2) (1).png
 coverY: 53
 ---
 

@@ -4,7 +4,7 @@ description: >-
   hagamos en los Pokémon, como nuevas formas, modelos y muchisimo más!
 ---
 
-# Pokemon
+# 📊 Pokemon Custom
 
 {% hint style="info" %}
 Cualquier dato sobre un Pokémon escrito en esta categoria, debe suplantar al original para efectuar los cambios, para cualquier información base de un Pokémon o el propio mod, recomendamos visitar las wiki ya existentes.
@@ -30,4 +30,4 @@ Los Pokémon que reciben formas adicionales por el propio mod, tambien recibiran
 
 Nuestro continente tiene varias regiones, algunas ya conocidas aunque otras sin descubrir, seguro que se descubren nuevos Pokémon, lo más importante es que toda la información la tendremos aquí.
 
-**Los Pokémon de IKORA, NO tienen SHINY pero puede existir alguno que si.**
+**Los Pokémon de IKORA, algunos tienen SHINY y estarán listados aqui.**
