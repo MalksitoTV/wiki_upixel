@@ -47,8 +47,38 @@ Antes de instalar Pixelmon, asegúrate de cumplir con los siguientes requisitos:
 3. ▶️ Haz clic en "Jugar" y espera a que el juego cargue.
 4. 🔍 En el menú principal, verifica que Pixelmon esté instalado correctamente revisando la pestaña de "Mods".
 
+## 📥 Paso 5: Descargar e instalar nuestro pack de recursos
+
+### 🔗 1. Únete a nuestro Discord
+
+Si aún no formas parte de nuestra comunidad, únete a nuestro **Discord**.\
+📌 Allí encontrarás siempre el enlace actualizado para descargar el pack de recursos.
+
+### 📂 2. Descarga el pack
+
+📌 Ve al canal **#descargas** (o el canal correspondiente).\
+⬇️ Haz clic en el enlace de descarga y guarda el archivo en un lugar accesible en tu PC.
+
+### 📁 3. Mover el archivo a la carpeta correcta
+
+1️⃣ Abre **Minecraft** y ve a **Opciones > Paquetes de Recursos > Abrir carpeta de paquetes de recursos**.\
+2️⃣ Mueve el archivo descargado a esta carpeta **sin descomprimirlo**.
+
+### ✅ 4. Activar el pack en Minecraft
+
+✔️ Regresa a Minecraft y abre el menú de **Paquetes de Recursos**.\
+✔️ Busca el pack en la lista de la izquierda y haz clic en él para activarlo.\
+✔️ Pulsa **Listo** y espera a que Minecraft cargue los cambios.
+
+### 🎮 5. ¡Disfruta del servidor con el pack activo!
+
+✨ Ahora puedes ingresar al servidor y disfrutar de todas las mejoras visuales y sonoras que ofrece el pack de recursos.
+
+🚀 **¡Nos vemos en Pixelmon!**
+
 ### ⚠️ Solución de Problemas
 
 * ❌ **El juego crashea al iniciar**: Asegúrate de tener la versión correcta de **Forge** y **Pixelmon**.
 * 🔎 **Minecraft no detecta Pixelmon**: Verifica que el archivo `.jar` esté en la carpeta `mods`.
 * 🛠️ **Rendimiento bajo**: Asigna más RAM a Minecraft desde la configuración del lanzador.
+* Si tienes algun problema adicional, siempre puedes preguntar en nuestra comunidad, o abrir un ticket en nuestro Discord.
