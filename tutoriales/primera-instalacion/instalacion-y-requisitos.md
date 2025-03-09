@@ -52,11 +52,12 @@ Antes de instalar Pixelmon, asegúrate de cumplir con los siguientes requisitos:
 ### 🔗 1. Únete a nuestro Discord
 
 Si aún no formas parte de nuestra comunidad, únete a nuestro **Discord**.\
+[https://discord.gg/gh7sYEs8SP](https://discord.gg/gh7sYEs8SP)\
 📌 Allí encontrarás siempre el enlace actualizado para descargar el pack de recursos.
 
 ### 📂 2. Descarga el pack
 
-📌 Ve al canal **#descargas** (o el canal correspondiente).\
+📌 Ve al canal  #⁀➷🔨-mods-y-recursos.\
 ⬇️ Haz clic en el enlace de descarga y guarda el archivo en un lugar accesible en tu PC.
 
 ### 📁 3. Mover el archivo a la carpeta correcta
@@ -74,7 +75,7 @@ Si aún no formas parte de nuestra comunidad, únete a nuestro **Discord**.\
 
 ✨ Ahora puedes ingresar al servidor y disfrutar de todas las mejoras visuales y sonoras que ofrece el pack de recursos.
 
-🚀 **¡Nos vemos en Pixelmon!**
+🚀 **¡Nos vemos en UPixel.org !**
 
 ### ⚠️ Solución de Problemas
 
