@@ -1,3 +1,25 @@
+---
+description: >-
+  "Este Pokémon prehistórico se alimenta de la sangre de otros Pokémon. Su
+  diminuto tamaño le permite moverse sin ser detectado."
+cover: ../../.gitbook/assets/image (2).png
+coverY: 28.05365126676602
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🦟 Moskito -  #2000
 
 ### 📌 Información General
