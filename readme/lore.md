@@ -1,8 +1,9 @@
 ---
 description: Conceptos basicos para conocer el lore de UPixel.org
+hidden: true
 ---
 
-# ✉️ Lore
+# ✉️ Lore de Ikora
 
 ## **Historia de Ikora**
 
@@ -15,7 +16,7 @@ description: Conceptos basicos para conocer el lore de UPixel.org
 
 ## Base De Trama Principal
 
-\-Se ha perdido el equilibrio en la región. Necrozma se ha desatado con el apoyo del "Equipo Erbó" y el caos está por avecinarse, la corrupción se está expandiendo por la región, están comenzando a haber reportes de que los pokémon se han vuelto muy agresivos atacándose uno a los otros, los científicos los han llamado "refulgentes", Pokémon manipulados por necrozma para aumentar su poder.
+-Se ha perdido el equilibrio en la región. Necrozma se ha desatado con el apoyo del "Equipo Erbó" y el caos está por avecinarse, la corrupción se está expandiendo por la región, están comenzando a haber reportes de que los pokémon se han vuelto muy agresivos atacándose uno a los otros, los científicos los han llamado "refulgentes", Pokémon manipulados por necrozma para aumentar su poder.
 
 Necrozma tiene un poder demasiado grande que ha logrado poseer a Legendarios logrando destruir el equilibrio del mundo.
 

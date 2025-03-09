@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🪐 ¡Bienvenido/a!](README.md)
+  * [✉️ Lore de Ikora](readme/lore.md)
 
 ## TUTORIALES
 
@@ -81,4 +82,3 @@
     * [🌟 Nuestra Visión 🌟](equipo-de-upixel/sobre-nosotros-as/vision-mision-and-objetivo/vision.md)
     * [🎮 ¿Qué nos impulsa?](equipo-de-upixel/sobre-nosotros-as/vision-mision-and-objetivo/mision.md)
     * [🌟 ¿Qué buscamos lograr?](equipo-de-upixel/sobre-nosotros-as/vision-mision-and-objetivo/objetivo.md)
-  * [✉️ Lore de Ikora](equipo-de-upixel/sobre-nosotros-as/lore.md)
