@@ -59,8 +59,8 @@
   * [🌱 IronGeranium - #2005](u-dex/pokemon/irongeranium-2005.md)
   * [❄️ WinterBrute - #2006](u-dex/pokemon/winterbrute-2006.md)
   * [🖤 KingUnown - #2007](u-dex/pokemon/kingunown-2007.md)
-  * [🎲 Mimikyu Allister](u-dex/pokemon/mimikyu-allister.md)
-  * [👌 Zygarde](u-dex/pokemon/zygarde.md)
+  * [🔐 Baokazam - #2008](u-dex/pokemon/baokazam-2008.md)
+  * [🔐 Baohe - #2009](u-dex/pokemon/baohe-2009.md)
 
 ## DISCORD
 

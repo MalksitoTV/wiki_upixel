@@ -8,7 +8,7 @@ coverY: 8
 
 # 🖤 KingUnown - #2007
 
-### 📜 Información General![](<../../.gitbook/assets/image (1).png>)
+### 📜 Información General
 
 **Nombre:** KingUnown\
 **Número Pokédex:** 2007\
