@@ -1,7 +1,9 @@
 ---
 description: >-
-  Se dice que el sonido de su campanilla armoniza el flujo de energía, aliviando
-  el dolor y restaurando el equilibrio del cuerpo y la mente.
+  "Se dice que el sonido de su campanilla armoniza el flujo de energía,
+  aliviando el dolor y restaurando el equilibrio del cuerpo y la mente."
+cover: ../../.gitbook/assets/image (5).png
+coverY: -5
 ---
 
 # 🔐 Baohe - #2009

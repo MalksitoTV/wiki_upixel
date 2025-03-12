@@ -1,8 +1,8 @@
 ---
 description: >-
-  Su dominio del espacio-tiempo lo convierte en un rival casi intocable en
+  "Su dominio del espacio-tiempo lo convierte en un rival casi intocable en
   combate. Los sabios antiguos lo veneraban como un ser iluminado, pues su mente
-  ha trascendido la comprensión terrenal.
+  ha trascendido la comprensión terrenal."
 cover: ../../.gitbook/assets/image (4).png
 coverY: 0
 ---
