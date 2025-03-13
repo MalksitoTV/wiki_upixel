@@ -1,6 +1,6 @@
 ---
 description: '"Su agilidad y ferocidad lo convierten en un cazador implacable."'
-cover: ../../.gitbook/assets/image (3).png
+cover: ../../.gitbook/assets/image (3) (1).png
 coverY: 80
 ---
 

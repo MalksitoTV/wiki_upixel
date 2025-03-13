@@ -4,6 +4,20 @@ description: >-
   energía le permite renacer de sus cenizas si es derrotado."
 cover: ../../.gitbook/assets/image (6).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔐 Inferion - #2010

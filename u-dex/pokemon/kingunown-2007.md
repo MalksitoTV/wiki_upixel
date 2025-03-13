@@ -2,7 +2,7 @@
 description: >-
   "Algunos investigadores creen que Kingunown es la clave para descifrar un
   alfabeto perdido que otorga acceso a conocimientos prohibidos."
-cover: ../../.gitbook/assets/image (1).png
+cover: ../../.gitbook/assets/image (1) (1).png
 coverY: 8
 ---
 

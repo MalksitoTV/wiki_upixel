@@ -63,6 +63,8 @@
   * [🔐 Baohe - #2009](u-dex/pokemon/baohe-2009.md)
   * [🔐 Inferion - #2010](u-dex/pokemon/inferion-2010.md)
   * [🧵Banevee - #2011](u-dex/pokemon/banevee-2011.md)
+  * [🔐 Rahken - #2012](u-dex/pokemon/rahken-2012.md)
+  * [🔐 FlareFoot - #2013](u-dex/pokemon/flarefoot-2013.md)
 
 ## DISCORD
 

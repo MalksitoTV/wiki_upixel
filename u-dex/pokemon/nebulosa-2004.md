@@ -2,7 +2,7 @@
 description: >-
   "Este Pokémon emana un brillo etéreo similar a una nebulosa. Se dice que puede
   deslizarse en los sueños de otros y revelarles visiones del futuro."
-cover: ../../.gitbook/assets/image (2).png
+cover: ../../.gitbook/assets/image (2) (1).png
 coverY: 37
 ---
 

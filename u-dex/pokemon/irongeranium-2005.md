@@ -3,7 +3,7 @@ description: >-
   "Su cuerpo metálico es tan resistente como el titanio, pero sus pétalos emiten
   un aroma calmante. Algunos creen que fue creado para restaurar ecosistemas
   devastados."
-cover: ../../.gitbook/assets/image (1) (1).png
+cover: ../../.gitbook/assets/image (1) (1) (1).png
 coverY: 55.36964078794902
 ---
 

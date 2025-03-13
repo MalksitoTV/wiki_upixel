@@ -3,7 +3,7 @@ description: >-
   "Este Pokémon de gran tamaño deambula por las montañas nevadas en busca de
   comida. A pesar de su aspecto festivo, su fuerza descomunal lo convierte en un
   rival temible."
-cover: ../../.gitbook/assets/image.png
+cover: ../../.gitbook/assets/image (4).png
 coverY: 57
 ---
 
