@@ -2,6 +2,8 @@
 description: >-
   "En combate, sus patadas envueltas en llamas pueden partir montañas, y su
   energía le permite renacer de sus cenizas si es derrotado."
+cover: ../../.gitbook/assets/image (6).png
+coverY: 0
 ---
 
 # 🔐 Inferion - #2010

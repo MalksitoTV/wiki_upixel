@@ -62,6 +62,7 @@
   * [🔐 Baokazam - #2008](u-dex/pokemon/baokazam-2008.md)
   * [🔐 Baohe - #2009](u-dex/pokemon/baohe-2009.md)
   * [🔐 Inferion - #2010](u-dex/pokemon/inferion-2010.md)
+  * [Banevee - #2011](u-dex/pokemon/banevee-2011.md)
 
 ## DISCORD
 
