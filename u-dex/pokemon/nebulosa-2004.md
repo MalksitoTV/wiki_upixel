@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/image (2) (1).png
 coverY: 37
 ---
 
-# 👻 Nebulosa - #2004
+# 🪩 Nebulosa - #2004
 
 ### 📜 Información General
 

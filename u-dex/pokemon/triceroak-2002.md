@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/image (1) (1) (1) (1).png
 coverY: 64
 ---
 
-# 🦖 Triceroak - #2002
+# 🦏 Triceroak - #2002
 
 ### 📜 Información General
 
