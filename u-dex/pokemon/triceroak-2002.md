@@ -3,7 +3,7 @@ description: >-
   "Sus patas gruesas y su caparazón cubierto de musgo lo protegen de los
   depredadores."
 cover: ../../.gitbook/assets/image (1) (1) (1) (1) (1).png
-coverY: 64
+coverY: 162.99420625724218
 ---
 
 # 🦏 Triceroak - #2002
