@@ -62,9 +62,18 @@
   * [🔐 Baokazam - #2008](u-dex/pokemon/baokazam-2008.md)
   * [🔐 Baohe - #2009](u-dex/pokemon/baohe-2009.md)
   * [🔐 Inferion - #2010](u-dex/pokemon/inferion-2010.md)
-  * [🧵Banevee - #2011](u-dex/pokemon/banevee-2011.md)
+  * [🧵 Banevee - #2011](u-dex/pokemon/banevee-2011.md)
   * [🔐 Rahken - #2012](u-dex/pokemon/rahken-2012.md)
   * [🔐 FlareFoot - #2013](u-dex/pokemon/flarefoot-2013.md)
+  * [🔐 Filofera - #2014](u-dex/pokemon/filofera-2014.md)
+  * [🔐 Dryadelle - #2015](u-dex/pokemon/dryadelle-2015.md)
+  * [🔐 Baixian - #2016](u-dex/pokemon/baixian-2016.md)
+  * [🔐 Sidereia - #2017](u-dex/pokemon/sidereia-2017.md)
+  * [🔐 Faeloria - #2018](u-dex/pokemon/faeloria-2018.md)
+  * [🔐 Skorpishock - #2019](u-dex/pokemon/skorpishock-2019.md)
+  * [🔐 Skorpibolt - #2020](u-dex/pokemon/skorpibolt-2020.md)
+  * [🔐 Genkyu - #2021](u-dex/pokemon/genkyu-2021.md)
+  * [Arkeus - #3000](u-dex/pokemon/arkeus-3000.md)
 
 ## DISCORD
 

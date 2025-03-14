@@ -7,7 +7,7 @@ cover: ../../.gitbook/assets/image (7).png
 coverY: -6
 ---
 
-# 🧵Banevee - #2011
+# 🧵 Banevee - #2011
 
 ## 📜 Información General
 
