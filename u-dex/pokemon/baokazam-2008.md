@@ -11,7 +11,7 @@ coverY: 0
 
 ## **Baokazam** - _El Maestro del Teletransporte_
 
-🔹 **Tipo:** Psíquico\
+🔹 **Tipo:** ???\
 🔹 **Estado:** 📜 **Datos Restringidos**
 
 Los registros de Baokazam están actualmente bloqueados. Se cree que este Pokémon posee habilidades de teletransporte tan avanzadas que incluso la información sobre él es difícil de rastrear.

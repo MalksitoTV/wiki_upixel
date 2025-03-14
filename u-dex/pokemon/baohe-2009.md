@@ -11,7 +11,7 @@ coverY: -5
 ## **Baohe** - _El Sanador Sereno_
 
 \
-🔹 **Tipo:** Normal / Hada\
+🔹 **Tipo:** ???\
 🔹 **Estado:** 📜 **Datos Restringidos**
 
 Los registros de Baohe están actualmente bloqueados. Se dice que este Pokémon posee habilidades de curación tan misteriosas que incluso su verdadera naturaleza sigue siendo un enigma.

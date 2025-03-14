@@ -10,7 +10,7 @@ coverY: 0
 
 ## **RahKen - El Fénix del Desierto**&#x20;
 
-🔹 Tipo: **Fuego / Siniestro**&#x20;
+🔹 Tipo: **???**
 
 🔹 Estado: 📜 **Datos Restringidos**
 
