@@ -70,7 +70,7 @@
   * [🔐 Baixian - #2016](u-dex/pokemon/baixian-2016.md)
   * [🔐 Sidereia - #2017](u-dex/pokemon/sidereia-2017.md)
   * [🔐 Faeloria - #2018](u-dex/pokemon/faeloria-2018.md)
-  * [🔐 Skorpishock - #2019](u-dex/pokemon/skorpishock-2019.md)
+  * [🦂 Skorpishock - #2019](u-dex/pokemon/skorpishock-2019.md)
   * [🔐 Skorpibolt - #2020](u-dex/pokemon/skorpibolt-2020.md)
   * [🔐 Genkyu - #2021](u-dex/pokemon/genkyu-2021.md)
   * [Arkeus - #3000](u-dex/pokemon/arkeus-3000.md)

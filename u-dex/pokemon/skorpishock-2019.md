@@ -1,4 +1,9 @@
-# 🔐 Skorpishock - #2019
+---
+cover: ../../.gitbook/assets/image (13).png
+coverY: -27
+---
+
+# 🦂 Skorpishock - #2019
 
 ## 📜 **Información General**
 
