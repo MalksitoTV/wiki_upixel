@@ -55,7 +55,7 @@
   * [🦖 Spinoasis -  #2001](u-dex/pokemon/spinoasis-2001.md)
   * [🦏 Triceroak - #2002](u-dex/pokemon/triceroak-2002.md)
   * [🦖 Floraptor - #2003](u-dex/pokemon/floraptor-2003.md)
-  * [🪩 Nebulosa - #2004](u-dex/pokemon/nebulosa-2004.md)
+  * [🌑 Nebulosa - #2004](u-dex/pokemon/nebulosa-2004.md)
   * [🌱 IronGeranium - #2005](u-dex/pokemon/irongeranium-2005.md)
   * [❄️ WinterBrute - #2006](u-dex/pokemon/winterbrute-2006.md)
   * [🖤 KingUnown - #2007](u-dex/pokemon/kingunown-2007.md)
