@@ -1,4 +1,7 @@
 ---
+description: >-
+  "Su exoesqueleto negro y amarillo actúa como un pararrayos, absorbiendo la
+  electricidad ambiental para potenciar sus ataques."
 cover: ../../.gitbook/assets/image (13).png
 coverY: -27
 ---
@@ -18,7 +21,7 @@ coverY: -27
 
 
 
-<table data-header-hidden><thead><tr><th></th><th width="511"></th></tr></thead><tbody><tr><td>❤️ <strong>HP</strong></td><td>40</td></tr><tr><td>💪 <strong>Ataque</strong></td><td>50</td></tr><tr><td>🛡️ <strong>Defensa</strong></td><td>90</td></tr><tr><td>🔥 <strong>Ataque Esp.</strong></td><td>30</td></tr><tr><td>🧠 <strong>Def. Esp.</strong></td><td>55</td></tr><tr><td>⚡ <strong>Velocidad</strong></td><td>65</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th width="476.4544677734375"></th></tr></thead><tbody><tr><td>❤️ <strong>HP</strong></td><td>40</td></tr><tr><td>💪 <strong>Ataque</strong></td><td>50</td></tr><tr><td>🛡️ <strong>Defensa</strong></td><td>90</td></tr><tr><td>🔥 <strong>Ataque Esp.</strong></td><td>30</td></tr><tr><td>🧠 <strong>Def. Esp.</strong></td><td>55</td></tr><tr><td>⚡ <strong>Velocidad</strong></td><td>65</td></tr></tbody></table>
 
 ## 🎯 **Habilidad**
 
