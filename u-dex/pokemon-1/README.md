@@ -4,7 +4,7 @@ description: >-
   hagamos en los Pokémon, como nuevas formas, modelos y muchisimo más!
 ---
 
-# 📊 Pokemon Custom
+# 🌍 Regionales de IKORA
 
 {% hint style="info" %}
 Cualquier dato sobre un Pokémon escrito en esta categoria, debe suplantar al original para efectuar los cambios, para cualquier información base de un Pokémon o el propio mod, recomendamos visitar las wiki ya existentes.
