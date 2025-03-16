@@ -4,7 +4,7 @@ description: >-
   el servidor.  Para acceder al sistema y ver tu progreso, usa el comando /rpa.
 ---
 
-# 🏅 Sistema de Recompensas por Actividad (RPA)
+# 🏅Recompensas por Actividad (RPA)
 
 ### Niveles de Recompensa
 

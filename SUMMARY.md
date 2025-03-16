@@ -34,9 +34,9 @@
 ***
 
 * [Recompensas Diarias](recompensas-diarias/README.md)
-  * [🏆 Sistema de Niveles de Actividad 🎮](recompensas-diarias/sistema-de-niveles-de-actividad.md)
-  * [🏅 Sistema de Recompensas por Actividad (RPA)](recompensas-diarias/sistema-de-recompensas-por-actividad-rpa.md)
-  * [🎯 Misiones Diarias en Pixelmon 📸](recompensas-diarias/misiones-diarias-en-pixelmon.md)
+  * [🏆 Niveles de Actividad (RPA)](recompensas-diarias/niveles-de-actividad-rpa.md)
+  * [🏅Recompensas por Actividad (RPA)](recompensas-diarias/recompensas-por-actividad-rpa.md)
+  * [🎯 Misiones Diarias](recompensas-diarias/misiones-diarias-en-pixelmon.md)
 * [Modificaciones Custom](modificaciones-custom/README.md)
   * [🤖 Modificadores](modificaciones-custom/modificadores.md)
   * [🛍️ Lucky Blocks](modificaciones-custom/lucky-blocks.md)
