@@ -4,8 +4,8 @@ icon: chart-bullet
 
 # Tutoriales Arkeus
 
-{% content-ref url="guia-de-proteccion-y-claims/" %}
-[guia-de-proteccion-y-claims](guia-de-proteccion-y-claims/)
+{% content-ref url="proteccion-y-claims/" %}
+[proteccion-y-claims](proteccion-y-claims/)
 {% endcontent-ref %}
 
 {% content-ref url="entrenamiento.md" %}
