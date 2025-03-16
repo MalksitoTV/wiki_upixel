@@ -5,7 +5,7 @@ description: >-
   subir de nivel.
 ---
 
-# 🏆 Sistema de Niveles de Actividad 🎮
+# 🏆 Niveles de Actividad (RPA)
 
 ### 🏁 **Nivel 1: Inicio de la Aventura** 🌟
 

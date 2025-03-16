@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🪐 ¡Bienvenido/a!](README.md)
+  * [📜 Reglas del Servidor](readme/reglas-del-servidor.md)
   * [✉️ Lore de Ikora](readme/lore.md)
 
 ## TUTORIALES
@@ -34,8 +35,8 @@
 ***
 
 * [Recompensas Diarias](recompensas-diarias/README.md)
-  * [🏆 Niveles de Actividad (RPA)](recompensas-diarias/niveles-de-actividad-rpa.md)
-  * [🏅Recompensas por Actividad (RPA)](recompensas-diarias/recompensas-por-actividad-rpa.md)
+  * [🏆 Niveles de Actividad (RPA)](recompensas-diarias/sistema-de-niveles-de-actividad.md)
+  * [🏅Recompensas por Actividad (RPA)](recompensas-diarias/sistema-de-recompensas-por-actividad-rpa.md)
   * [🎯 Misiones Diarias](recompensas-diarias/misiones-diarias-en-pixelmon.md)
 * [Modificaciones Custom](modificaciones-custom/README.md)
   * [🤖 Modificadores](modificaciones-custom/modificadores.md)
