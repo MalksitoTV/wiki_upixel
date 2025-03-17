@@ -4,8 +4,6 @@ description: Comandos generales del servidor.
 
 # 📜 Comandos Básicos
 
-##
-
 ### 🎮 Comandos Generales
 
 🔹 **`/spawn`** – Teletranspórtate al punto de inicio del servidor.\

@@ -16,6 +16,7 @@
   * [🌟 Primer Día](tutoriales/primera-instalacion/primer-dia.md)
 * [Tutoriales Arkeus](tutoriales/tutoriales-arkeus/README.md)
   * [📜 Comandos Básicos](tutoriales/tutoriales-arkeus/comandos-basicos.md)
+  * [📍 Warps](tutoriales/tutoriales-arkeus/warps.md)
   * [🔐 Protección y Claims](tutoriales/tutoriales-arkeus/proteccion-y-claims/README.md)
     * [🔒 Permisos de tu Claim](tutoriales/tutoriales-arkeus/proteccion-y-claims/permisos-de-tu-claim.md)
     * [🛠️ Comandos Claims](tutoriales/tutoriales-arkeus/proteccion-y-claims/comandos-claims.md)
@@ -31,7 +32,6 @@
     * [Tipo Hada](tutoriales/tutoriales-arkeus/crianza/tipo-hada.md)
   * [🎮Wondertrade](tutoriales/tutoriales-arkeus/wondertrade.md)
   * [🎉 PixelBingo](tutoriales/tutoriales-arkeus/pixelbingo.md)
-  * [📍 Warps](tutoriales/tutoriales-arkeus/warps.md)
 
 ***
 
@@ -90,6 +90,7 @@
 
 ## DISCORD
 
+* [⚙️ Comandos Discord](discord/comandos-discord.md)
 * [Sistema Economia](discord/sistema-economia.md)
 * [🎰 Economia](discord/economia.md)
 * [🎱 MiniJuegos](discord/minijuegos.md)
