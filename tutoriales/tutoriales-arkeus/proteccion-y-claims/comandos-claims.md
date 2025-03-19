@@ -9,7 +9,7 @@ description: 'A continuación, algunos de los comandos:'
 ## 💬 **Comandos Útiles para Administrar Permisos:**
 
 * **Permisos** en tu claim:\
-  `/trust [jugador]` NO RECOMENDADO\
+  `/trust [jugador]`   ¡ATENCION!\
   Esto permitirá que ese jugador haga cambios dentro de tu claim (como colocar bloques o interactuar, o mover items en tus cofres)
 * **Para bloquear a un jugador** de tu claim:\
   `/deny [jugador]`\

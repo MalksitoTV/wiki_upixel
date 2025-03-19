@@ -5,7 +5,7 @@ description: >-
   de tus Pokémon:
 ---
 
-# ⚔️ Guía de Entrenamiento de Pokémon en Pixelmon 🎮
+# ⚔️ Guía de Entrenamiento
 
 ### 🎯 Subida de Nivel
 
@@ -50,7 +50,7 @@ Los IVs son valores internos que determinan el potencial máximo de las estadís
 
 * **Batallas contra NPCs**: Enfréntate a entrenadores en los centros Pokémon para obtener experiencia y recompensas.
 * **Desafíos en Gimnasios**: Mejora tus habilidades enfrentándote a líderes de gimnasio.
-* **Participa en torneos**: En servidores multijugador, únete a torneos para poner a prueba tu equipo.
+* **Participa en torneos**: Únete a torneos para poner a prueba tu equipo.
 
 ### 🍎 Uso de Objetos
 

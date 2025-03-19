@@ -5,7 +5,7 @@ description: >-
   (¡proteger tu territorio!), sigue estos pasos:
 ---
 
-# 🔐 Guía de Protección y Claims
+# 🔐 Protección y Claims
 
 ### 🏰 **Cómo Crear tu Claim (Protege tu Territorio)**
 
@@ -28,6 +28,6 @@ Para crear un claim y proteger tu construcción:
 
 Si tienes dudas o problemas con tus claims, como si otro jugador está interfiriendo con tu territorio o no sabes cómo modificar los permisos, **contacta con la administracion via ticket en Discord**. Podemos ayudarte a resolver cualquier inconveniente.
 
-## **¡Disfruta Protegiendo tu Territorio!**
+## **¡Disfruta Construyendo en tu Territorio!**
 
 Tienes el poder de asegurar tus construcciones, tu equipo y tus Pixelmon dentro de tu propio espacio seguro. ¡Recuerda que el respeto mutuo es clave para una experiencia divertida en el servidor!
