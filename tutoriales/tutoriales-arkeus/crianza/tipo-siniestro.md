@@ -5,23 +5,27 @@ description: >-
 coverY: 0
 ---
 
-# Tipo Siniestro
+# 🌑 Tipo Siniestro
 
-## Requisitos Tipo Siniestro
+## **🏆 Puntuación: 4**
 
-<table><thead><tr><th width="240">Requisito</th><th width="174.33333333333331">Cantidad Minima</th><th>Cantidad Maxima</th></tr></thead><tbody><tr><td>Tiempo por etapa</td><td>1h 30min</td><td>1h 30min</td></tr><tr><td>-------------------------</td><td>-------------------</td><td>-------------------------</td></tr><tr><td>Pokedollares por etapa</td><td>1.000 ₽</td><td>10.000 ₽</td></tr><tr><td>-------------------------</td><td>-------------------</td><td>-------------------------</td></tr></tbody></table>
+* **Cabezas y cráneos:**
+  * Cabeza de Creeper (`creeper_head`)
+  * Cabeza de Zombie (`zombie_head`)
+  * Cráneo de Esqueleto (`skeleton_skull`)
+  * Cráneo de Wither Esqueleto (`wither_skeleton_skull`)
 
-## Objetos Tipo Siniestro
+## **🏅 Puntuación: 3**
 
-Al inicio de cada etapa, se debe entregar alguno de los siguientes objetos:
+* **Bloque de carbón** (`coal_block`)
 
-* 2x Bloque de Carbón // CoalBlock
-* 1x Calavera de Esqueleto // SkeletonSkull
-* 1x Obsidiana // Obsidian
-* 10x Lana Gris // GrayWool
-* 10x Piedra Negra // CryingObsidian
-* 2x Obsidiana Llorosa // CryingObsidian
+## **⭐ Puntuación: 2**
 
-## Gemas Siniestro
+* **Tela de araña** (`cobweb`)
+* **Ladrillos del Nether** (`nether_bricks`)
+* **Obsidiana** (`obsidian`)
+* **Arena de almas** (`soul_sand`)
 
-Son necesarias 2 // 4 // 6 Gemas Siniestro al inicio de cada etapa.
+## **⚪ Puntuación: 1**
+
+* **Arena** (`sand`)

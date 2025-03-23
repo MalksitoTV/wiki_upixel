@@ -4,23 +4,24 @@ description: >-
   criados.
 ---
 
-# Tipo Dragon
+# 🐉 Tipo Dragón
 
-## Requisitos Tipo Dragon
+## **🏆 Puntuación: 4**
 
-<table><thead><tr><th width="240">Requisito</th><th width="174.33333333333331">Cantidad Minima</th><th>Cantidad Maxima</th></tr></thead><tbody><tr><td>Tiempo por etapa</td><td>1h 30min</td><td>1h 30min</td></tr><tr><td>-------------------------</td><td>-------------------</td><td>-------------------------</td></tr><tr><td>Pokedollares por etapa</td><td>1.000 ₽</td><td>10.000 ₽</td></tr><tr><td>-------------------------</td><td>-------------------</td><td>-------------------------</td></tr></tbody></table>
+* **Huevo de Dragón** (`dragon_egg`)
 
-## Objetos Tipo Dragon
+## **🏅 Puntuación: 3**
 
-Al inicio de cada etapa, se debe entregar alguno de los siguientes objetos:
+* **Bloque de Diamante** (`diamond_block`)
+* **Bloque de Esmeralda** (`emerald_block`)
+* **Mesa de Encantamientos** (`enchanting_table`)
+* **Piedra del End** (`end_stone`)
 
-* 1x Bloque de Diamante // DiamondBlock
-* 2x Bloque de Oro // GoldBlock
-* 3x Piedra del End // EndStone
-* 1x Aliento de Dragon // DragonBreath
-* 3x Carga Ignea // FireCharge
-* 10x Carbon Vegetal // Charcoal
+## **⭐ Puntuación: 2**
 
-## Gemas Dragon
+* **Bloque de Oro** (`gold_block`)
+* **Glowstone** (`glowstone`)
 
-Son necesarias 2 // 4 // 6 Gemas Dragon al inicio de cada etapa.
+## **⚪ Puntuación: 1**
+
+* **Piedra** (`stone`)

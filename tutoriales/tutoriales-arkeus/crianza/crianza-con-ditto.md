@@ -2,6 +2,7 @@
 description: >-
   Cada Pokémon criado con Ditto, tienen los siguientes requisitos para ser
   criados.
+hidden: true
 ---
 
 # Crianza con Ditto

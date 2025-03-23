@@ -6,23 +6,46 @@ cover: ../../../.gitbook/assets/EP1120_Pokémon_bicho_de_Goh.png
 coverY: 0
 ---
 
-# Tipo Bicho
+# 🌿 Tipo Bicho
 
-## Requisitos Tipo Bicho
+## **🏆 Puntuación: 3**
 
-<table><thead><tr><th width="240">Requisito</th><th width="174.33333333333331">Cantidad Minima</th><th>Cantidad Maxima</th></tr></thead><tbody><tr><td>Tiempo por etapa</td><td>1h 30min</td><td>1h 30min</td></tr><tr><td>-------------------------</td><td>-------------------</td><td>-------------------------</td></tr><tr><td>Pokedollares por etapa</td><td>1.000 ₽</td><td>10.000 ₽</td></tr><tr><td>-------------------------</td><td>-------------------</td><td>-------------------------</td></tr></tbody></table>
+* **Maceta** (`flower_pot`)
+* **Bloque de hongo rojo** (`red_mushroom_block`)
 
-## Objetos Tipo Bicho
+## **🏅 Puntuación: 2**
 
-Al inicio de cada etapa, se debe entregar alguno de los siguientes objetos:
+* **Flores:**
+  * Diente de león (`dandelion`)
+  * Amapola (`poppy`)
+  * Orquídea azul (`blue_orchid`)
+  * Allium (`allium`)
+  * Azul celeste (`azure_bluet`)
+  * Tulipán rojo (`red_tulip`)
+  * Tulipán naranja (`orange_tulip`)
+  * Tulipán blanco (`white_tulip`)
+  * Tulipán rosa (`pink_tulip`)
+  * Margarita (`oxeye_daisy`)
+  * Aciano (`cornflower`)
+  * Lirio del valle (`lily_of_the_valley`)
+  * Rosa de Wither (`wither_rose`)
+  * Girasol (`sunflower`)
+  * Lila (`lilac`)
+  * Peonía (`peony`)
+  * Rosal (`rose_bush`)
+* **Bloque de hongo marrón** (`brown_mushroom_block`)
 
-* 2x Diente de Leon // Dandelion
-* 3x Telaraña // Cobweb
-* 3x Ojo de Araña // SpiderEye
-* 1x Apiario // Beehive
-* 1x Frasco con Miel // HoneyBottle
-* 8x Bola de Slime // SlimeBall
+## **⭐ Puntuación: 1**
 
-## Gemas Bicho
-
-Son necesarias 2 // 4 // 6 Gemas Bicho para el inicio de cada etapa.
+* **Bloque de hierba** (`grass_block`)
+* **Hojas de árboles:**
+  * Jungla (`jungle_leaves`)
+  * Roble (`oak_leaves`)
+  * Abeto (`spruce_leaves`)
+  * Roble oscuro (`dark_oak_leaves`)
+  * Acacia (`acacia_leaves`)
+  * Abedul (`birch_leaves`)
+* **Hojas de bayas de Pixelmon:**\
+  &#xNAN;_(Incluye todos los tipos de hojas de bayas y albaricoques, como `pixelmon:berry_leaves_oran`, `pixelmon:apricorn_leaves_red`, etc.)_
+* **Troncos y maderas:**\
+  &#xNAN;_(Incluye todos los tipos de madera y troncos, como `oak_log`, `spruce_log`, `pixelmon:berry_log`, etc.)_

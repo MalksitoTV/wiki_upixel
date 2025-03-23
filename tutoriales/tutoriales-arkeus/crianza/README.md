@@ -1,3 +1,9 @@
+---
+description: >-
+  En nuestro servidor, hemos adaptado las mecánicas de crianza de Pixelmon para
+  ofrecer dos experiencias distintas según el mundo en el que te encuentres.
+---
+
 # 🥚 Crianza
 
 ## ¿Qué es la Crianza?
@@ -5,11 +11,47 @@
 * El Sistema de Crianza te permite , que dos Pokémon de la misma especie, o grupo huevo puedan tener una cria, y con ese concepto crear los mejores Pokémon.
 * Necesitas tener un PokeRancho, la primera vez.
 * Cuando hayas comenzado la primera etapa de crianza, puedes usar un comando para conocer el estado de tus Pokémon en el PokeRancho.
-* Puedes tener hasta 3 parejas de Pokémon criando a la vez, al inicio.
 * Cada pareja tiene unos requisitos diferentes.
 * Debes caminar para abrir los huevos Pokémon.
 
-![](<../../../.gitbook/assets/Captura de pantalla 2023-04-05 191327.png>)
+### 🌍 **Mundo Survival - Crianza Clásica (1.12.2)**
+
+En el mundo **Survival**, hemos restaurado la mecánica de crianza clásica basada en el sistema de **Ranch Block y bloques ambientales de las versiones 1.12.2**
+
+#### 🔹 **Cómo funciona**
+
+1. **Uso del Ranch Block**
+   * Debes colocar un **Ranch Block** para iniciar la crianza.
+   * Existe un maximo de Ranch Block, determinado por tu rango.
+2. **Compatibilidad de Pokémon**
+   * Dos Pokémon del **mismo Egg Group** pueden criar si son de géneros opuestos o si usas un **Ditto**.
+   * La compatibilidad aumenta con el tiempo hasta que estén "enamorados".
+3. **Bloques ambientales**
+   * Alrededor del Ranch Block, debes colocar **bloques adecuados** para acelerar la crianza.
+   * Ejemplo: Para Pokémon tipo Agua, usa bloques como **agua, prismarina o hielo**.
+   * Puedes conocer los puntos ambientales, pulsando sobre el Rancho.
+4. **Obtención del huevo**
+   * Una vez que los Pokémon están listos, un **huevo aparecerá dentro del Ranch Block** y podrás recogerlo.
+
+## 🪐 **Mundo Ikora - Crianza Nueva (1.16.5 con ajustes)**
+
+En el mundo **Ikora**, usamos el sistema de crianza más reciente de **Pixelmon 1.16.5**, pero con algunos ajustes personalizados para mejorar la experiencia.
+
+#### 🔹 **Cómo funciona**
+
+1. **Warp Crianza**
+   * En este mundo, **no se usa el Ranch Block**.
+   * Debes ir al /warp crianza
+   * Existe un máximo de Slots disponibles para Criar.
+2. **Sistema de Picnic**
+   * Para criar, debes **dejar a los Pokémon en las maquinas alli disponibles**.
+   * Los Pokémon necesitan **algunos requisitos para criar**.
+3. **Sistema de Gemas**
+   * Necesitas usar Gemas de sus tipos, para avanzar en la Crianza.
+   * El unico requisito son Gemas de sus tipos.
+   * Puedes obtener muchas Gemas cada dia, con nuestro sistema de PokeTrabajos con el comando /pt
+4. **Obtención del huevo**
+   * Una vez que las fases han terminado, se entrega el Huevo al Jugador.
 
 ## Conceptos Basicos de la Crianza.
 
