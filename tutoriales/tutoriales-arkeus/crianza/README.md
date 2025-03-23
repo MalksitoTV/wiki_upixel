@@ -43,7 +43,7 @@ En el mundo **Ikora**, usamos el sistema de crianza más reciente de **Pixelmon 
    * En este mundo, **no se usa el Ranch Block**.
    * Debes ir al /warp crianza
    * Existe un máximo de Slots disponibles para Criar.
-2. **Sistema de Picnic**
+2. **Sistema de Guarderias**
    * Para criar, debes **dejar a los Pokémon en las maquinas alli disponibles**.
    * Los Pokémon necesitan **algunos requisitos para criar**.
 3. **Sistema de Gemas**
