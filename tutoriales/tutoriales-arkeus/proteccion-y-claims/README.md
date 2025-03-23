@@ -12,7 +12,7 @@ description: >-
 Para crear un claim y proteger tu construcción:
 
 1. **Obtén una pala dorada** usando el kit de claimblocks, o craftea una.
-2. **Haz clic derecho** con la pala dorada en el suelo donde quieras comenzar a proteger tu área. ¡Así se creará tu claim!, tendrás toda la información que necesitas para crear tu proteccion en el chat.
+2. **Haz clic derecho** con la pala dorada en el suelo donde quieras comenzar a proteger tu área. ¡Así se creará tu claim!, tendrás toda la información que necesitas en el chat, para crear tu proteccion en el chat.
 3. Tu claim protegerá **todo el espacio alrededor de donde hayas hecho clic**, asegurando que nadie pueda destruir tus construcciones ni interactuar sin tu permiso.
 4. Puedes ampliar el tamaño de tu claim haciendo click en una de las esquinas de tu claim.
 
