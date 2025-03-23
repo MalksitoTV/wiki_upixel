@@ -62,6 +62,8 @@
   * [🏆 Equipos](modificaciones-custom/equipos/README.md)
     * [🌟 Perks de los Equipos](modificaciones-custom/equipos/perks-de-los-equipos.md)
     * [⚔️ Guerras de Equipo](modificaciones-custom/equipos/guerras-de-equipo.md)
+  * [🛒 Tiendas del Servidor](modificaciones-custom/tiendas-del-servidor/README.md)
+    * [Bloques](modificaciones-custom/tiendas-del-servidor/bloques.md)
 
 ## 🌎 U-Dex
 
