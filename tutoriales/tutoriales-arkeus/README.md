@@ -12,8 +12,8 @@ icon: chart-bullet
 [entrenamiento.md](entrenamiento.md)
 {% endcontent-ref %}
 
-{% content-ref url="crianza/" %}
-[crianza](crianza/)
+{% content-ref url="../todo-sobre-crianza/crianza/" %}
+[crianza](../todo-sobre-crianza/crianza/)
 {% endcontent-ref %}
 
 {% content-ref url="portales.md" %}
