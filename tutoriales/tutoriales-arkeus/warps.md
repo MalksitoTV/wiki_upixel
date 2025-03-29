@@ -6,14 +6,16 @@ description: Puedes conocer todos, usando el comando /warps
 
 ## 📍 Warps Basicos
 
-🔹 **`/spawn`** – Punto de inicio.\
-🔹 **`/warp safari`** – Zona salvaje para explorar y capturar Pokémon.\
-🔹 **`/warp rtp`** – Teletransporte aleatorio a un área segura.\
-🔹 **`/warp tutorial`** – Área con explicaciones sobre el servidor.
+🔹 **`/spawn`** – Punto de inicio, conexión de los portales del servidor.\
+🔹 **`/warp hospital`** – Cura tus Pokémon y regresa con /back.\
+🔹 **`/warp entrenamiento`** – Caramelos de EXP, Misiones diarias de entrenamiento y entrenadores para conseguir EXP.\
+🔹 **`/warp ayuda`** – Área con explicaciones sobre el servidor, conoce las mecánicas del servidor y dejate llevar por los NPC.\
+🔹 **`/warp evs`** – Entrenamiento rápido de EVs.\
+🔹 **`/warp ayuda`** – Área con explicaciones sobre el servidor.
 
 ### 🏆 **Warps de Batallas y Gimnasios**
 
-🔹 **`/warp gyms`** – Acceso rápido a los gimnasios disponibles.\
+🔹 **`/gyms`** – Acceso rápido a los gimnasios disponibles.\
 🔹 **`/warp elite4`** – Liga Pokémon con los 4 entrenadores más fuertes.\
 🔹 **`/warp pvp`**– Zona PvP donde los jugadores pueden batallar entre sí.\
 🔹 **`/warp torneo`** – Espacio para torneos oficiales y eventos.
