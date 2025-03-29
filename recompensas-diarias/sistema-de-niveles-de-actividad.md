@@ -70,7 +70,7 @@ Tu aventura se expande. ¡Los horizontes son más amplios!
 Las verdaderas pruebas comienzan aquí. ¿Estás listo para los desafíos más difíciles?
 
 * **Requisitos**:
-  * **Permiso**: `Completa_Torre_Dynamax`
+  * **Permiso**: `Primer_Pokemon_Nv100`
   * **Artículo**: 8 Cristales del End
   * **Tiempo de juego**: 15 horas
   * **Viajes**: 20,000 bloques
