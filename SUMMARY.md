@@ -45,6 +45,9 @@
     * [🪨 Tipo Roca](tutoriales/todo-sobre-crianza/crianza/tipo-roca.md)
     * [🛠️ Tipo Acero](tutoriales/todo-sobre-crianza/crianza/tipo-acero.md)
     * [💧 Tipo Agua](tutoriales/todo-sobre-crianza/crianza/tipo-agua.md)
+* [Misiones Diarias](tutoriales/misiones-diarias/README.md)
+  * [📌 Captura](tutoriales/misiones-diarias/captura.md)
+  * [⚔️ Derrota](tutoriales/misiones-diarias/derrota.md)
 
 ***
 

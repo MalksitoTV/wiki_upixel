@@ -11,7 +11,7 @@ description: Puedes conocer todos, usando el comando /warps
 🔹 **`/warp entrenamiento`** – Caramelos de EXP, Misiones diarias de entrenamiento y entrenadores para conseguir EXP.\
 🔹 **`/warp ayuda`** – Área con explicaciones sobre el servidor, conoce las mecánicas del servidor y dejate llevar por los NPC.\
 🔹 **`/warp evs`** – Entrenamiento rápido de EVs.\
-🔹 **`/warp ayuda`** – Área con explicaciones sobre el servidor.
+🔹 **`/warp misiones`** – Muchas misiones y tareas diarias.
 
 ### 🏆 **Warps de Batallas y Gimnasios**
 
