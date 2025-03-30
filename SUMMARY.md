@@ -31,7 +31,7 @@
       * [⚡ Tipo Eléctrico](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-electrico.md)
       * [💧 Tipo Agua](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-agua.md)
       * [🛠️ Tipo Acero](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-acero.md)
-      * [🪨 Tipo Roca](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-roca.md)
+      * [🕋 Tipo Roca](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-roca.md)
       * [🧠 Tipo Psíquico](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-psiquico.md)
       * [☠️ Tipo Veneno](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-veneno.md)
       * [⚪ Tipo Normal](tutoriales/todo-sobre-crianza/crianza/crianza-1.12.2-survival/tipo-normal.md)

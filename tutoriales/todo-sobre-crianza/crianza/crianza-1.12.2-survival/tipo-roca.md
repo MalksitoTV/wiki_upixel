@@ -1,4 +1,4 @@
-# 🪨 Tipo Roca
+# 🕋 Tipo Roca
 
 ## **🏆 Puntuación: 3**
 
