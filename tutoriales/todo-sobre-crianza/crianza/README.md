@@ -2,6 +2,7 @@
 description: >-
   En nuestro servidor, hemos adaptado las mecánicas de crianza de Pixelmon para
   ofrecer dos experiencias distintas según el mundo en el que te encuentres.
+hidden: true
 ---
 
 # 🥚 Crianza
