@@ -50,6 +50,7 @@
 * [Misiones Diarias](tutoriales/misiones-diarias/README.md)
   * [📌 Captura](tutoriales/misiones-diarias/captura.md)
   * [⚔️ Derrota](tutoriales/misiones-diarias/derrota.md)
+  * [🧬 Crianza](tutoriales/misiones-diarias/crianza.md)
 
 ***
 
