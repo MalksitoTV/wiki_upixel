@@ -2,7 +2,6 @@
 
 ## **🏆 Puntuación: 3**
 
-* 💎 **Cima de Roca** (bedrock)
 * 🖤 **Bloque de Carbón** (coal\_block)
 * 🪨 **Piedra de End** (end\_stone)
 
