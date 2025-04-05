@@ -3,7 +3,7 @@
 ## **🏆 Puntuación: 3**
 
 * 🟩 **Bloque de Esmeralda** (emerald\_block)
-* 📚 **Librero** (bookshelf)
+* 📚 **Libreria** (bookshelf)
 * 🏳️‍🌈 **Alfombra Blanca** (white\_carpet)
 * 🧡 **Alfombra Naranja** (orange\_carpet)
 * 💜 **Alfombra Magenta** (magenta\_carpet)
