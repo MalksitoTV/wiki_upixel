@@ -12,6 +12,7 @@ description: >-
 
 * **Recompensa:** 6 Panes 🍞
 * **Tiempo de Espera:** 15 minutos 🕒
+* Tag: Visitante
 
 ***
 
@@ -19,13 +20,15 @@ description: >-
 
 * **Recompensa:** 9 PokeBalls aleatorias 🎲
 * **Tiempo de Espera:** 20 minutos 🕒
+* Tag: Ciudadano
 
 ***
 
 #### Nivel 3: 🏰 **ClaimBlocks**
 
-* **Recompensa:** 100 Bloques de Claim 🏰
+* **Recompensa:** 50 Bloques de Claim 🏰
 * **Tiempo de Espera:** 25 minutos 🕒
+* Tag: Constructor
 
 ***
 
@@ -33,13 +36,15 @@ description: >-
 
 * **Recompensa:** Cartas BASE al azar 🃏
 * **Tiempo de Espera:** 30 minutos 🕒
+* Tag: Aprendiz
 
 ***
 
 #### Nivel 5: 🚑 **Botiquín**
 
-* **Recompensa:** 12 Objetos de botiquín al azar 🚑
+* **Recompensa:** 3 Bolsas de Botiquin 🚑
 * **Tiempo de Espera:** 40 minutos 🕒
+* Tag: Minero
 
 ***
 
@@ -47,6 +52,7 @@ description: >-
 
 * **Recompensa:** 10 SpawnStop Adicionales 🛑
 * **Tiempo de Espera:** 50 minutos 🕒
+* Tag: Granjero
 
 ***
 
@@ -54,6 +60,7 @@ description: >-
 
 * **Recompensa:** Cartas FOSIL al azar 🦖
 * **Tiempo de Espera:** 1 hora 🕒
+* Tag: Ayudante
 
 ***
 
@@ -61,6 +68,7 @@ description: >-
 
 * **Recompensa:** 3 Fosiles al azar 🦠
 * **Tiempo de Espera:** 1 hora y 15 minutos 🕒
+* Tag: Talador
 
 ***
 
@@ -68,6 +76,7 @@ description: >-
 
 * **Recompensa:** 3 Objetos de Entrenamiento 🍇
 * **Tiempo de Espera:** 1 hora y 30 minutos 🕒
+* Tag: Pescador
 
 ***
 
@@ -75,6 +84,7 @@ description: >-
 
 * **Recompensa:** Respeto para tu Team 🎖
 * **Tiempo de Espera:** 2 horas 🕒
+* Tag: Maestro
 
 ***
 

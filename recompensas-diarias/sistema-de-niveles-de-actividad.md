@@ -12,8 +12,9 @@ description: >-
 Comienza tu viaje y prepárate para enfrentarte a desafíos épicos. ¡El primer paso siempre es el más emocionante!
 
 * **Requisitos**: No se requieren requisitos adicionales.
-* **Costo de subida**: ¡Gratis!
-* **Rankup automático**: Sí
+* **Costo de subida**: ¡Lo tienes desde el principio!
+
+
 
 ***
 
@@ -22,14 +23,14 @@ Comienza tu viaje y prepárate para enfrentarte a desafíos épicos. ¡El primer
 ¡Has dado tu primer paso hacia la grandeza! Es hora de demostrar tu dedicación.
 
 * **Requisitos**:
-  * **Permiso**: `Linkeado_en_Discord`
-  * **Artículo**: 2 Cristales del End
+  * **Logro**: `Linkeado_en_Discord`
+  * **Objetos**: 1 Cristal del End
   * **Tiempo de juego**: 3 horas
-  * **Viajes**: 1000 bloques
-  * **Saltos**: 100
-  * **Correr**: 500
-* **Costo de subida**: 10,000 monedas
-* **Votos requeridos**: 5
+  * Exploración: 10.000 bloques
+  * **Saltos**: 1.000
+  * **Correr**: 5.000 bloques
+* **Coste**: 10.000 PokeDollares
+* **Votos** : 5
 
 ***
 
@@ -38,13 +39,13 @@ Comienza tu viaje y prepárate para enfrentarte a desafíos épicos. ¡El primer
 Tu aventura se expande. ¡Los horizontes son más amplios!
 
 * **Requisitos**:
-  * **Permiso**: `10%_Pokedex`
-  * **Artículo**: 4 Cristales del End
+  * **Logro**: `10%_Pokedex`
+  * **Objetos**: 2 Cristales del End
   * **Tiempo de juego**: 6 horas
-  * **Viajes**: 5000 bloques
-  * **Saltos**: 500
-  * **Nadar**: 500
-* **Costo de subida**: 15,000 monedas
+  * **Exploración**: 40.000 bloques
+  * **Saltos**: 2.500
+  * **Nadar**: 1.500 bloques
+* **Costo de subida**: 15.000 PokeDollares
 * **Votos requeridos**: 10
 
 ***
@@ -54,13 +55,13 @@ Tu aventura se expande. ¡Los horizontes son más amplios!
 ¡Ahora tienes más metas por alcanzar! Continúa mejorando tus habilidades.
 
 * **Requisitos**:
-  * **Permiso**: `20%_Pokedex`
-  * **Artículo**: 6 Cristales del End
+  * **Logro**: `20%_Pokedex`
+  * **Objetos**: 5 Cristales del End
   * **Tiempo de juego**: 10 horas
-  * **Viajes**: 10,000 bloques
-  * **Saltos**: 1500
-  * **Correr**: 1800
-* **Costo de subida**: 20,000 monedas
+  * **Exploración**: 60.000 bloques
+  * **Saltos**: 5.000
+  * **Correr**: 25.000 bloques
+* **Costo de subida**: 20.000 PokeDollares
 * **Votos requeridos**: 15
 
 ***
@@ -70,13 +71,13 @@ Tu aventura se expande. ¡Los horizontes son más amplios!
 Las verdaderas pruebas comienzan aquí. ¿Estás listo para los desafíos más difíciles?
 
 * **Requisitos**:
-  * **Permiso**: `Primer_Pokemon_Nv100`
-  * **Artículo**: 8 Cristales del End
-  * **Tiempo de juego**: 15 horas
-  * **Viajes**: 20,000 bloques
-  * **Saltos**: 5000
-  * **Nadar**: 2600
-* **Costo de subida**: 25,000 monedas
+  * **Logro**: `Primer_Pokemon_Nv100`
+  * **Objetos**: 8 Cristales del End
+  * **Tiempo de juego**: 22 horas
+  * **Exploración**: 150.000 bloques
+  * **Saltos**: 9.000
+  * **Nadar**: 5.000 bloques
+* **Costo de subida**: 25.000 PokeDollares
 * **Votos requeridos**: 20
 
 ***
@@ -88,12 +89,12 @@ Tu experiencia te ha convertido en un explorador experto. ¡Ahora todo es posibl
 * **Requisitos**:
   * **Permiso**: `30%_Pokedex`
   * **Artículo**: 10 Cristales del End
-  * **Tiempo de juego**: 20 horas
-  * **Viajes**: 50,000 bloques
-  * **Saltos**: 10,000
-  * **Nadar**: 3500
-  * **Correr**: 3500
-* **Costo de subida**: 30,000 monedas
+  * **Tiempo de juego**: 48 horas
+  * **Viajes**: 300.000 bloques
+  * **Saltos**: 15.000
+  * **Nadar**: 7.500 bloques
+  * **Correr**: 60.000 bloques
+* **Costo de subida**: 30.000 PokeDollares
 * **Votos requeridos**: 30
 
 ***
