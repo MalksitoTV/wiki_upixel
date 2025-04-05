@@ -25,6 +25,7 @@
   * [🚪 Portales](tutoriales/tutoriales-arkeus/portales.md)
   * [🎮Wondertrade](tutoriales/tutoriales-arkeus/wondertrade.md)
   * [🎉 PixelBingo](tutoriales/tutoriales-arkeus/pixelbingo.md)
+  * [⚪PokeBall y Efectos](tutoriales/tutoriales-arkeus/pokeball-y-efectos.md)
 * [Todo Sobre Crianza](tutoriales/todo-sobre-crianza/README.md)
   * [🚸 Warp Abridor](tutoriales/todo-sobre-crianza/warp-abridor.md)
   * [🪺 Crianza 1.12.2 (Survival)](tutoriales/todo-sobre-crianza/crianza-1.12.2-survival/README.md)
