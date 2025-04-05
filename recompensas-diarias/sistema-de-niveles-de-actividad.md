@@ -99,6 +99,8 @@ Tu experiencia te ha convertido en un explorador experto. ¡Ahora todo es posibl
 
 ***
 
+Se estan testeando los siguientes niveles, y podrían tener modificaciones en los requisitos, y recompensas.
+
 ### 🦸 **Nivel 7: Héroe del Servidor** 🌟
 
 Conviértete en un verdadero héroe del servidor. ¡Tu nombre será recordado!
