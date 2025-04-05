@@ -8,6 +8,10 @@ icon: chart-bullet
 [comandos-basicos.md](comandos-basicos.md)
 {% endcontent-ref %}
 
+{% content-ref url="random-teleport.md" %}
+[random-teleport.md](random-teleport.md)
+{% endcontent-ref %}
+
 {% content-ref url="proteccion-y-claims/" %}
 [proteccion-y-claims](proteccion-y-claims/)
 {% endcontent-ref %}
