@@ -30,7 +30,7 @@ Nos gustaria enormemente darte la bienvenida , desearte que tengas una experienc
 **En cada POST si tienes el rol "Comentador" a la derecha tienes la opción de comentar algo ya escrito para poder mejorarlo, o añadir mejor información.**
 {% endhint %}
 
-Disponemos de diferentes plataformas para conseguir una experiencia total, desde nuestra propia Wiki, Comunidad de Discord, Desarrolllos internos y muchisimo mas.
+Disponemos de diferentes plataformas para conseguir una experiencia global, desde nuestra propia Wiki, Comunidad de Discord, Desarrolllos internos y muchisimo más.
 
 Nunca dudes en dejar tus sugerencias!
 
