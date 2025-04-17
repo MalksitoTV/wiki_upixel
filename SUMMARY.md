@@ -63,9 +63,6 @@
     * [🍬 Caramelos XP](tutoriales/modificaciones-custom/crafteos-custom/caramelos-xp.md)
     * [🍬 Caramelos Raros](tutoriales/modificaciones-custom/crafteos-custom/caramelos-raros.md)
     * [🍶 Botiquin](tutoriales/modificaciones-custom/crafteos-custom/botiquin.md)
-  * [🤖 Modificadores](tutoriales/modificaciones-custom/modificadores.md)
-  * [🛍️ Lucky Blocks](tutoriales/modificaciones-custom/lucky-blocks.md)
-  * [🎨 Lienzo de ARKEUS](tutoriales/modificaciones-custom/lienzo-de-arkeus.md)
   * [🦸 Modificadores Custom del Servidor](tutoriales/modificaciones-custom/modificadores-custom-del-servidor/README.md)
     * [🧬 Modificación de IVs](tutoriales/modificaciones-custom/modificadores-custom-del-servidor/modificacion-de-ivs.md)
     * [⛓️ Modificación de EVs](tutoriales/modificaciones-custom/modificadores-custom-del-servidor/modificacion-de-evs.md)
@@ -75,6 +72,9 @@
     * [⚔️ Guerras de Equipo](tutoriales/modificaciones-custom/equipos/guerras-de-equipo.md)
   * [🛒 Tiendas del Servidor](tutoriales/modificaciones-custom/tiendas-del-servidor/README.md)
     * [Bloques](tutoriales/modificaciones-custom/tiendas-del-servidor/bloques.md)
+  * [🤖 Modificadores](tutoriales/modificaciones-custom/modificadores.md)
+  * [🛍️ Lucky Blocks](tutoriales/modificaciones-custom/lucky-blocks.md)
+  * [🎨 Lienzo de ARKEUS](tutoriales/modificaciones-custom/lienzo-de-arkeus.md)
 * [Safari Ikora](tutoriales/safari-ikora.md)
 
 ## 🌎 U-Dex
