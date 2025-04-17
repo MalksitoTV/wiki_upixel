@@ -1,5 +1,5 @@
 ---
-hidden: true
+description: Disfruta explorando los 40 Biomas diferentes que hemos preparado.
 icon: compass
 ---
 
