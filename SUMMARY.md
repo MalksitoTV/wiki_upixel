@@ -59,6 +59,8 @@
     * [🏅Recompensas por Actividad (RPA)](tutoriales/misiones-diarias/recompensas-diarias/recompensas-por-actividad-rpa.md)
     * [🎯 Misiones Diarias](tutoriales/misiones-diarias/recompensas-diarias/misiones-diarias-en-pixelmon.md)
 * [Modificaciones Custom](tutoriales/modificaciones-custom/README.md)
+  * [Crafteos Custom](tutoriales/modificaciones-custom/crafteos-custom/README.md)
+    * [🍬 Caramelos Raros](tutoriales/modificaciones-custom/crafteos-custom/caramelos-raros.md)
   * [🤖 Modificadores](tutoriales/modificaciones-custom/modificadores.md)
   * [🛍️ Lucky Blocks](tutoriales/modificaciones-custom/lucky-blocks.md)
   * [🎨 Lienzo de ARKEUS](tutoriales/modificaciones-custom/lienzo-de-arkeus.md)
