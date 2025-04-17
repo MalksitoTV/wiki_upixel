@@ -1,80 +1,58 @@
 ---
-description: ¡Con 9 caramelos del mismo tipo podrás crear un caramelo de nivel superior!
+description: >-
+  Craftea Caramelos raros con ether, mejora tus caramelos con elixir, y mucho
+  mas.
 ---
 
 # 🍬 Caramelos Raros
 
-### 🛠️ **¿Qué Son los Caramelos?**
+### 🛠️ **¿Qué Son los Caramelos Raros?**
 
-Los **Caramelos** son objetos que aumentan la experiencia de tus Pokémon.  Al craftear estos caramelos, puedes obtener ventajas que te ayudarán a subir el nivel de tus Pokémon, además si tienes un boosteo activo de experiencia harás que tus caramelos den mucha mas EXP !¡!
+Los **Caramelos Raros** son objetos que aumentan niveles de tus Pokémon.  Al craftear estos caramelos, puedes obtener niveles para tus Pokémon, en vez de experiencia.
 
 ***
 
 ### 🍬 **Recetas de Caramelos Raros**
 
-Simplemente añade 9 caramelos a tu mesa de crafteo y mejora tu caramelo hacia un nivel superior
+Las recetas pueden sentirse complejas, aunque acaban siendo fáciles y simples.
 
 ***
 
-## 🟢 **Caramelo XS**
+## 🟢 **Caramelo Raro**
 
-**Descripción:** El caramelo de **tamaño XS** otorga 100 EXP\
+**Descripción:** El caramelo raro, aumenta un nivel.\
 **Receta:**
 
 * **Ingredientes:**
-  * N / D
-* **Instrucciones:** Este caramelo es el más básico, y no es posible craftearlo.
+  * 9 Elixir Max
+* **Instrucciones:** Este caramelo es el más conocido, y ahora puedes craftearlo con 9 Elixir Max.
+* Recomendación: Puedes mejorar los Eter, en Elixires crafteandolos.
 
 ***
 
-## 🔵 **Caramelo S**
+## 🔵 Refresco Raro
 
-**Descripción:** El caramelo de **tamaño XS** otorga 800 EXP\
+**Descripción:** El refresco raro, aumenta dos niveles.\
 **Receta:**
 
 * **Ingredientes:**
-  * 9 Caramelos XS
-* **Instrucciones:** Combina 9 **caramelos XS** en la mesa de craftep para crear un **Caramelo S**.
+  * 8 Elixir Max
+  * 1 Caramelo Raro (En el centro)
+* **Instrucciones:** Combina 8 Elixir Max, y un Caramelo Raro, para obtener un Refresco que aumenta dos niveles tu Pokemon.
 
 ***
 
-#### 🟠 **Caramelo M (Mediano)**
+## 🟠 Refresco Genial
 
-**Descripción:** El caramelo de **tamaño XS** otorga 3.000 EXP\
+**Descripción:** El refresco genial, aumenta 4 niveles.\
 **Receta:**
 
 * **Ingredientes:**
-  * 9 Caramelos S
-* **Instrucciones:** Combina 9 **caramelos S** en la mesa de craftep para crear un **Caramelo M**.
+  * 6 Elixir Max
+  * 2 Caramelo Raro
+  * 1 Refresco Genial
+* **Instrucciones:** Combina los ingredientes para obtener un objeto que aumenta 4 niveles tu Pokémon.
 
 ***
-
-#### 🟡 **Caramelo L (Grande)**
-
-**Descripción:** El caramelo de **tamaño XS** otorga 10.000 EXP\
-**Receta:**
-
-* **Ingredientes:**
-  * 9 Caramelos M
-* **Instrucciones:** Combina 9 **caramelos M** en la mesa de craftep para crear un **Caramelo L**.
-
-***
-
-#### 🔴 **Caramelo XL (Extra Grande)**
-
-**Descripción:** El caramelo de **tamaño XS** otorga 30.000 EXP\
-**Receta:**
-
-* **Ingredientes:**
-  * 9 Caramelos L
-* **Instrucciones:** Combina 9 **caramelos L** en la mesa de craftep para crear un **Caramelo XL**.
-
-***
-
-### 💡 **Consejos para Crear Caramelos Raros**
-
-* **Recuerda los boost.**
-* **Aumenta de nivel**: Con cada combinación de 9 caramelos, el tamaño y los efectos de los caramelos aumentan. ¡No dudes en juntar tus caramelos para obtener el máximo poder!
-* **Usa los caramelos estratégicamente**: Los caramelos de mayor tamaño te otorgarán más EXP para tus Pokémon, lo que puede multiplicarse bajo un efecto de BOOST.
 
 ***
