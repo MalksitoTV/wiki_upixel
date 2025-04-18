@@ -10,3 +10,15 @@ icon: container-storage
 
 ## 📜 **Lista de Recetas Disponibles**
 
+{% content-ref url="caramelos-xp.md" %}
+[caramelos-xp.md](caramelos-xp.md)
+{% endcontent-ref %}
+
+{% content-ref url="caramelos-raros.md" %}
+[caramelos-raros.md](caramelos-raros.md)
+{% endcontent-ref %}
+
+{% content-ref url="botiquin.md" %}
+[botiquin.md](botiquin.md)
+{% endcontent-ref %}
+
