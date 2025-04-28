@@ -10,9 +10,11 @@ description: >-
 Comando: `/rtp /biomertp` o usa el menú interactivo.\
 Efectos: 🌌 Partículas de portal + sonido de Enderman.\
 Requisitos: Algunas opciones requieren permisos de rango VIP.
--------------------------------------------------------------
 
-### 🔹 **Tipos de teleport disponibles:** 🌍 **Random** → A cualquier punto seguro del mundo. 🌱 **Bioma** → Elige entre más de 30 biomas disponibles (¡incluso Pixelmon!). 🏛️ **Estructura** → Teletranspórtate cerca de aldeas, templos, santuarios legendarios y más.
+🔹 **Tipos de teleport disponibles:**\
+🌍 **Random** → A cualquier punto seguro del mundo.\
+🌱 **Bioma** → Elige entre más de 30 biomas disponibles (¡incluso Pixelmon!).\
+🏛️ **Estructura** → Teletranspórtate cerca de aldeas, templos, santuarios legendarios y más.
 
 ### 🔹 **Mundos compatibles:**
 
