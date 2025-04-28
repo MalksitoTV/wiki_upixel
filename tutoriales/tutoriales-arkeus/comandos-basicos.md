@@ -7,10 +7,15 @@ description: Comandos generales del servidor.
 ### 🎮 Comandos Generales
 
 🔹 **`/spawn`** – Teletranspórtate al punto de inicio del servidor.\
+🔹 **`/menu`** – Abre el GUI con el menú principal del servidor.\
 🔹 **`/home <nombre>`** – Vuelve a tu hogar (debes haberlo establecido antes).\
+🔹 **`/homes`** – Abre tu GUI con los homes disponibles.\
 🔹 **`/sethome <nombre>`** – Define tu hogar en la ubicación actual.\
-🔹 **`/rtp [Survival]`** – Teletransporte aleatorio a un lugar seguro.\
-🔹 **`/warp [nombre]`** – Teletranspórtate a una ubicación específica.
+🔹 **`/rtp`** – Teletransporte aleatorio a un lugar seguro.\
+🔹 **`/biomertp`** – Abre tu GUI con los rtp disponibles.\
+🔹 **`/warp [nombre]`** – Teletranspórtate a una ubicación específica.\
+🔹 **`/warp`** – Abre tu GUI con los warp disponibles.\
+🔹 **`/warps`** – Abre un GUI simplificado, parte del **`/menu`**&#x20;
 
 ### 🏆 Comandos de Pixelmon
 
@@ -22,7 +27,8 @@ description: Comandos generales del servidor.
 ### 🛍️ Economía y Tiendas
 
 🔹 **`/bal`** – Muestra tu saldo actual en la economía del servidor.\
-🔹 **`/pay [jugador] [cantidad]`** – Envía dinero a otro jugador.
+🔹 **`/pay [jugador] [cantidad]`** – Envía dinero a otro jugador.\
+🔹 **`/shop`** – Abre el GUI con las tiendas disponibles.
 
 ### 🏡 Clanes y Equipos
 
