@@ -14,6 +14,7 @@
     * [⚠️ Sanciones y Otras Normas](tutoriales/primera-instalacion/reglamento/sanciones-y-otras-normas.md)
     * [Reglas Discord](tutoriales/primera-instalacion/reglamento/reglas-discord.md)
   * [🌟 Primer Día](tutoriales/primera-instalacion/primer-dia.md)
+  * [Verificacion en 2 pasos](tutoriales/primera-instalacion/verificacion-en-2-pasos.md)
 * [Tutoriales Arkeus](tutoriales/tutoriales-arkeus/README.md)
   * [📜 Comandos Básicos](tutoriales/tutoriales-arkeus/comandos-basicos.md)
   * [🎲 Random Teleport](tutoriales/tutoriales-arkeus/random-teleport.md)
