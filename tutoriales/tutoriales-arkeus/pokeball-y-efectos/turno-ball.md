@@ -26,8 +26,8 @@ description: >-
 
 La **Timer Ball** se puede obtener de varias formas:
 
-* **🎨 Crafteo**: Se puede craftear.
-* **🛒 Compra**: Puede adquirirse en /warp hospital.
+* **🎨 Crafteo**: Se puede craftear, con bases de hierro.
+* **🛒 Compra**: Puede adquirirse en /warp hospital, o /shop
 * **🎁 Drops:** Puede dropear en diferentes Pokemon, Kits y Recompensas.
 
 ## 🔧 Receta de fabricación
@@ -40,7 +40,7 @@ La **Timer Ball** se puede obtener de varias formas:
 
 ## **Crafteo**
 
-* **Parte Superior** + **Botón** + **Base de Platino**
+* **Parte Superior** + **Botón** + **Base de Hierro**
 
 ### 🧳 Usos
 
